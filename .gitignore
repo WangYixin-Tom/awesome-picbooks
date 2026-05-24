@@ -1,5 +1,18 @@
 # Ignore picture book image files
-images/**/*.{jpg,jpeg,png,webp,heic,tif,tiff,JPG,JPEG,PNG,WEBP,HEIC,TIF,TIFF}
+images/**/*.jpg
+images/**/*.jpeg
+images/**/*.png
+images/**/*.webp
+images/**/*.heic
+images/**/*.tif
+images/**/*.tiff
+images/**/*.JPG
+images/**/*.JPEG
+images/**/*.PNG
+images/**/*.WEBP
+images/**/*.HEIC
+images/**/*.TIF
+images/**/*.TIFF
 
 # Keep image folder placeholders if needed
 !images/**/.gitkeep
