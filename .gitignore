@@ -1,0 +1,8 @@
+# Ignore picture book image files
+images/**/*.{jpg,jpeg,png,webp,heic,tif,tiff,JPG,JPEG,PNG,WEBP,HEIC,TIF,TIFF}
+
+# Keep image folder placeholders if needed
+!images/**/.gitkeep
+
+# macOS
+.DS_Store
