@@ -51,6 +51,7 @@
       "Bash(make build *)",
       "Bash(make lint)",
       "Bash(make lint *)"
-    ]
+    ],
+    "defaultMode": "acceptEdits"
   }
 }
